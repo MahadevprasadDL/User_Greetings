@@ -1,3 +1,3 @@
-# User Greetings According to the Time With Source Code
+# User Greetings According to the Date and Time
 
 # Note:-
