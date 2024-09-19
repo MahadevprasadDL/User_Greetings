@@ -9,3 +9,5 @@
 
 ----> Ensure the correct Django environment variables are set up before running the code.
 
+# The final Output 
+![Screenshot (387)](https://github.com/user-attachments/assets/0939412f-c4aa-4893-a9b4-c35ec613d1ce)
